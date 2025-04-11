@@ -16,4 +16,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 # Bcal
 
-A basic project to calculate and show the user their BMI with simple imput fields
+A basic project to calculate and show the user their BMI with simple input fields and Simple UI.
